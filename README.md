@@ -12,10 +12,11 @@ A simple desktop application to help you track your income and expenses, visuali
 ## 🚀 Setup & Run Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/finance-tracker-app.git
+   git clone https://github.com/HariniBoyina/finance-tracker-app.git
    cd finance-tracker-app
 
 2. Install dependencies:
     pip install pandas matplotlib
 3. Run the app:
     python finance_tracker.py
+
